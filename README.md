@@ -58,7 +58,7 @@ The project uses a two-sided one-sample t-test at the 5% significance level.
 - **Source:** Yahoo Finance via `yfinance`
 - **Frequency:** Daily prices converted to month-end prices
 - **Sample:** March 2021 – August 2026
-- **Universe:** 49 large Indian listed companies
+- **Universe:** 48 large Indian listed companies
 - **Price field:** Adjusted prices (`auto_adjust=True`)
 
 ## Methodology
